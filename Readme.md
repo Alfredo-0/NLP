@@ -274,61 +274,61 @@ for topic in [1,2, 3, 4, 5, 6, 7, 8, 9, 10]:
 
 
     
-![png](output_15_0.png)
+![png](/Img/output_5_0.png)
     
 
 
 
     
-![png](output_15_1.png)
+![png](/Img/output_5_1.png)
     
 
 
 
     
-![png](output_15_2.png)
+![png](/Img/output_5_2.png)
     
 
 
 
     
-![png](output_15_3.png)
+![png](/Img/output_5_3.png)
     
 
 
 
     
-![png](output_15_4.png)
+![png](/Img/output_5_4.png)
     
 
 
 
     
-![png](output_15_5.png)
+![png](/Img/output_5_5.png)
     
 
 
 
     
-![png](output_15_6.png)
+![png](/Img/output_5_6.png)
     
 
 
 
     
-![png](output_15_7.png)
+![png](/Img/output_5_7.png)
     
 
 
 
     
-![png](output_15_8.png)
+![png](/Img/output_5_8.png)
     
 
 
 
     
-![png](output_15_9.png)
+![png](/Img/output_5_9.png)
     
 
 
@@ -344,30 +344,30 @@ for topic in topic_nums:
 
 
     
-![png](output_17_0.png)
+![png](/Img//Img/output_7_0.png)
     
 
 
 
     
-![png](output_17_1.png)
+![png](/Img/output_7_1.png)
     
 
 
 
     
-![png](output_17_2.png)
+![png](/Img/output_7_2.png)
     
 
 
 
     
-![png](output_17_3.png)
+![png](/Img/output_7_3.png)
     
 
 
 
     
-![png](output_17_4.png)
+![png](/Img/output_7_4.png)
     
 
