@@ -344,7 +344,7 @@ for topic in topic_nums:
 
 
     
-![png](/Img//Img/output_17_0.png)
+![png](/Img/output_17_0.png)
     
 
 
